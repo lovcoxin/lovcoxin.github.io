@@ -5,7 +5,5 @@
 layout: home
 ---
 
-# 这里是LycorisAlan, lovcoxin's blog
-
-> 正在施工...  -(゜-゜)つロ 干杯~
+> 道路正在施工...  -(゜-゜)つロ 干杯~
 
