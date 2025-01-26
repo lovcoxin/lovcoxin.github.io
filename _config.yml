@@ -54,3 +54,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# 以下图片
+1_image: /picture/友利奈绪.png
+
+# ----
