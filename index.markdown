@@ -13,7 +13,7 @@ layout: home
 
 Github https://lovcoxin.github.io 主修
 
-博客园 https://www.cnblogs.com/lovcoxin/ 关键博客刊载
+博客园 https://www.cnblogs.com/lovcoxin/articles/18692601 关键博客刊载
 
 本地jekyll同步Github...
 
