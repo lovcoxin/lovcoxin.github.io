@@ -4,21 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a2252de-23bb-41c6-ba82-6438238f17a0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/3.2.3'" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
-    </list>
+    <list default="true" id="7a2252de-23bb-41c6-ba82-6438238f17a0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/github-repo" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -84,6 +77,16 @@
       <workItem from="1738120413228" duration="17755000" />
       <workItem from="1738503361310" duration="2000" />
       <workItem from="1738512672908" duration="5000" />
+      <workItem from="1738647010169" duration="1712000" />
+      <workItem from="1741348866577" duration="16000" />
+      <workItem from="1741431992658" duration="2000" />
+      <workItem from="1741442997302" duration="2000" />
+      <workItem from="1741498221025" duration="4000" />
+      <workItem from="1742638741249" duration="9000" />
+      <workItem from="1742638854050" duration="23000" />
+      <workItem from="1742639233415" duration="41000" />
+      <workItem from="1742639287409" duration="10000" />
+      <workItem from="1746988042604" duration="1000" />
     </task>
     <servers />
   </component>
